@@ -1,5 +1,5 @@
 ### 一、使用reactive函数声明数组如何正确赋值
-[hello world](https://github.com/stars-oceans/yhc/issues/1
+[hello world](https://github.com/stars-oceans/yhc/issues/1)
 
 　　需求：将接口请求到的列表数据赋值给响应数据 array
 
