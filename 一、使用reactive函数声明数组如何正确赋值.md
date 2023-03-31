@@ -2,7 +2,6 @@
 
 　　需求：将接口请求到的列表数据赋值给响应数据 array
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 ```
 const arr = reactive([]);
@@ -19,7 +18,6 @@ const load = () => {
 };
 ```
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 　　问题原因：这是因为 `arr = newArr`这行代码让arr失去了响应式。**vue3 使用`proxy`，对于对象和数组都不能直接整个赋值**。
 
@@ -27,7 +25,7 @@ const load = () => {
 
 　　方法2为什么不行？只有push或者根据索引遍历赋值才可以保留reactive数组的响应性？如何方便的将整个数组拼接到响应式数据上？下面我们看下解决方案：
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
+
 
 ```
 // 这几种办法都可以触发响应性，推荐第一种
@@ -46,7 +44,7 @@ const arr = reactive([])
 arr.push(...[1, 2, 3])
 ```
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
+
 
 ### 二、script setup 语法糖中reactive + toRefs+解构如何优雅呈现
 
