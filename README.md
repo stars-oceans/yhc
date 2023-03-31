@@ -8,7 +8,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [vue3 子传父 (自定义方法)](https://github.com/stars-oceans/yhc/issues/5)
 
-[vue3 兄弟传值 ( 等待补齐 )](https://github.com/stars-oceans/yhc/issues/6)
+[vue3 兄弟传值 ( Provide / Inject )](https://github.com/stars-oceans/yhc/issues/6)
 
 
 ## git 系列
