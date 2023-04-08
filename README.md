@@ -10,6 +10,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [vue3 兄弟传值 ( Provide / Inject )](https://github.com/stars-oceans/yhc/issues/6)
 
+[vue3使用v-model 自定义组件封装](https://github.com/stars-oceans/yhc/issues/7)
+
 
 ## git 系列
 [删除GitHub远程仓库的中某个文件夹或者文件夹文件](https://github.com/stars-oceans/yhc/issues/3)
