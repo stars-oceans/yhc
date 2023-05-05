@@ -17,5 +17,5 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [删除GitHub远程仓库的中某个文件夹或者文件夹文件](https://github.com/stars-oceans/yhc/issues/3)
 
 ## JavaScript 系列
-[js数组常用方法( 19种 )]()
+[js数组常用方法( 19种 )](https://github.com/stars-oceans/yhc/issues/8)
 
