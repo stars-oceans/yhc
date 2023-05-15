@@ -24,4 +24,4 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [axios 三层封装](https://github.com/stars-oceans/yhc/issues/9)
 
 ## node
-[express 下载文件，下载完为压缩包类型]()
+[express 下载文件，下载完为压缩包类型](https://github.com/stars-oceans/yhc/issues/10)
