@@ -14,6 +14,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [vue3 自定义插件和将属性和方法挂载到全局的使用](https://github.com/stars-oceans/yhc/issues/12)
 
+[## vue3 侦听路由的params.id 的变化](https://github.com/stars-oceans/yhc/issues/13)
+
 
 ## git 系列
 [删除GitHub远程仓库的中某个文件夹或者文件夹文件](https://github.com/stars-oceans/yhc/issues/3)
