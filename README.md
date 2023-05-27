@@ -10,6 +10,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [vue3 兄弟传值 ( Provide / Inject )](https://github.com/stars-oceans/yhc/issues/6)
 
+[vue3 的 defineExpose ](https://github.com/stars-oceans/yhc/issues/14)
+
 [vue3使用v-model 自定义组件封装](https://github.com/stars-oceans/yhc/issues/7)
 
 [vue3 自定义插件和将属性和方法挂载到全局的使用](https://github.com/stars-oceans/yhc/issues/12)
