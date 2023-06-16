@@ -19,7 +19,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [## vue3 侦听路由的 route.params.id 的变化](https://github.com/stars-oceans/yhc/issues/13)
 
 ## VueX 系列
-[Vuex映射方法mapState、mapGetters、mapMutations、mapActions的使用](https://github.com/stars-oceans/yhc/issues/14)
+[Vuex映射方法mapState、mapGetters、mapMutations、mapActions的使用](https://github.com/stars-oceans/yhc/issues/15)
 
 
 ## git 系列
