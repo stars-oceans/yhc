@@ -18,12 +18,19 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [## vue3 侦听路由的 route.params.id 的变化](https://github.com/stars-oceans/yhc/issues/13)
 
+
 ## VueX 系列
 [Vuex映射方法mapState、mapGetters、mapMutations、mapActions的使用](https://github.com/stars-oceans/yhc/issues/15)
 
 
+## Element ui
+[elementUI组件库默认插槽的使用( #default )_](https://github.com/stars-oceans/yhc/issues/16)
+
+
 ## git 系列
 [删除GitHub远程仓库的中某个文件夹或者文件夹文件](https://github.com/stars-oceans/yhc/issues/3)
+
+
 
 ## JavaScript 系列
 [js数组常用方法( 19种 )](https://github.com/stars-oceans/yhc/issues/8)
