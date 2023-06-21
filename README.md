@@ -24,7 +24,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 
 ## Element ui
-[elementUI组件库默认插槽的使用( #default )_](https://github.com/stars-oceans/yhc/issues/16)
+[elementUI组件库默认插槽的使用( #default )](https://github.com/stars-oceans/yhc/issues/16)
 
 
 ## git 系列
