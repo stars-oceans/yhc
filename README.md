@@ -21,6 +21,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 ## Vue2 系列
 [.sync详细理解和父子组件传值方法](https://github.com/stars-oceans/yhc/issues/17)
 
+[Vue.set()和this.$set()介绍 为解决vue2受 ES5 的限制，Vue.js 不能检测到对象属性的添加或删除](https://github.com/stars-oceans/yhc/issues/18)
+
 
 ## VueX 系列
 [Vuex映射方法mapState、mapGetters、mapMutations、mapActions的使用](https://github.com/stars-oceans/yhc/issues/15)
