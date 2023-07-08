@@ -18,6 +18,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [## vue3 侦听路由的 route.params.id 的变化](https://github.com/stars-oceans/yhc/issues/13)
 
+[vue3和vue2 v-model 和sync语法糖区别](https://github.com/stars-oceans/yhc/issues/20)
+
 ## Vue2 系列
 [.sync详细理解和父子组件传值方法](https://github.com/stars-oceans/yhc/issues/17)
 
