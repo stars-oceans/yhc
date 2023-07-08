@@ -23,6 +23,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Vue.set()和this.$set()介绍 为解决Vue2受 ES5 的限制，Vue2 不能检测到对象属性的添加或删除](https://github.com/stars-oceans/yhc/issues/18)
 
+[Vue插槽,默认插槽,具名插槽，作用域插槽](https://github.com/stars-oceans/yhc/issues/18)
+
 
 ## VueX 系列
 [Vuex映射方法mapState、mapGetters、mapMutations、mapActions的使用](https://github.com/stars-oceans/yhc/issues/15)
