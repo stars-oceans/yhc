@@ -22,7 +22,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [vue3 封装个简易的 Dialog  对话框 父来展示,子来隐藏(难点vue2的。sync被废除使用的新的 v-model)](https://github.com/stars-oceans/yhc/issues/22)
 
-[vue3——onBeforeRouteLeave](https://github.com/stars-oceans/yhc/issues/23)
+[vue3——onBeforeRouteLeave](https://github.com/stars-oceans/yhc/issues/24)
 
 ## Vue2 系列
 [.sync详细理解和父子组件传值方法](https://github.com/stars-oceans/yhc/issues/17)
