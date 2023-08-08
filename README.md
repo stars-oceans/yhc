@@ -59,7 +59,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 
 ## 业务解决方案
-[vite + vue 打包使用 svg 地图（图标组件-打包svg地图）](https://github.com/stars-oceans/yhc/issues/25)
+[Vite + Vue3 打包使用 svg 地图（图标组件-打包svg地图）](https://github.com/stars-oceans/yhc/issues/25)
 ## 其他
 [普通的 html 导出数据为 excel](https://github.com/stars-oceans/yhc/issues/11)
 
