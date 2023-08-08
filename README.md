@@ -24,6 +24,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [vue3——onBeforeRouteLeave](https://github.com/stars-oceans/yhc/issues/24)
 
+[Vue3 中注册全局组件与自定义指令](https://github.com/stars-oceans/yhc/issues/26)
+
 ## Vue2 系列
 [.sync详细理解和父子组件传值方法](https://github.com/stars-oceans/yhc/issues/17)
 
