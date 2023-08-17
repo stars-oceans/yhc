@@ -62,8 +62,10 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [express 下载文件，下载完为压缩包类型](https://github.com/stars-oceans/yhc/issues/10)
 
 
-## 业务解决方案
+## 问题解决方案
 [Vite + Vue3 打包使用 svg 地图（图标组件-打包svg地图）](https://github.com/stars-oceans/yhc/issues/25)
+
+[利用CSS3的 transform > scale实现数据大屏适配问题](https://github.com/stars-oceans/yhc/issues/28)
 ## 其他
 [普通的 html 导出数据为 excel](https://github.com/stars-oceans/yhc/issues/11)
 
