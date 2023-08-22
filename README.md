@@ -54,6 +54,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [浅谈 JavaScript_callback() 回调函数](https://github.com/stars-oceans/yhc/issues/27)
 
+[JS中的实例成员和静态成员](https://github.com/stars-oceans/yhc/issues/30)
+
 
 ## axios 系列
 [axios 三层封装](https://github.com/stars-oceans/yhc/issues/9)
