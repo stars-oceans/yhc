@@ -56,6 +56,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [JS中的实例成员和静态成员](https://github.com/stars-oceans/yhc/issues/30)
 
+[js中实例方法、静态方法和原型方法详解](https://github.com/stars-oceans/yhc/issues/31)
+
 
 ## axios 系列
 [axios 三层封装](https://github.com/stars-oceans/yhc/issues/9)
