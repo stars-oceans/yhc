@@ -76,3 +76,5 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [普通的 html 导出数据为 excel](https://github.com/stars-oceans/yhc/issues/11)
 
 [vue3 + ts 项目在开发的时候 Vetur 插件报错解决办法](https://github.com/stars-oceans/yhc/issues/23)
+
+[前端项目难点亮点](https://github.com/stars-oceans/yhc/issues/32)
