@@ -72,6 +72,10 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [利用CSS3的 transform > scale实现数据大屏适配问题](https://github.com/stars-oceans/yhc/issues/28)
 
 [利用vh、vw 方案,解决字体大小问题,字体大小解决方案，实现数据大屏适配问题](https://github.com/stars-oceans/yhc/issues/29)
+
+## 可视化
+[vue2 中使用 echarts](https://github.com/stars-oceans/yhc/issues/34)
+
 ## 其他
 [普通的 html 导出数据为 excel](https://github.com/stars-oceans/yhc/issues/11)
 
