@@ -35,6 +35,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Vue2 使用sync 数据从 : 回流; 封装一个子父双向数据绑定的组件](https://github.com/stars-oceans/yhc/issues/20)
 
+[Vue2 的过渡动画](https://github.com/stars-oceans/yhc/issues/35)
 
 ## VueX 系列
 [Vuex映射方法mapState、mapGetters、mapMutations、mapActions的使用](https://github.com/stars-oceans/yhc/issues/15)
