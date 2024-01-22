@@ -37,6 +37,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Vue2 的过渡动画](https://github.com/stars-oceans/yhc/issues/35)
 
+[页面首次加载获取 URL ? 后面参数时,不通过 this.$route.query 获取参数](https://github.com/stars-oceans/yhc/issues/37)
+
 ## VueX 系列
 [Vuex映射方法mapState、mapGetters、mapMutations、mapActions的使用](https://github.com/stars-oceans/yhc/issues/15)
 
